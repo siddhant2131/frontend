@@ -472,6 +472,8 @@
 
 // export default Chat;
 
+
+
 import React, { useState, useEffect, useRef } from 'react';
 import { Send, Bot, User, Loader2, Trash2, LogOut, AlertCircle, Wifi, WifiOff } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
